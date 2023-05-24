@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+section image{
+  height: auto;
+  width: auto;
+}
+section background-image{
+  height: 50;
+  width: auto;
+}
+
